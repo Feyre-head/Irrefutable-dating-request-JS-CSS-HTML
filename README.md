@@ -13,7 +13,7 @@ The "No" button dodges the user's mouse, making it impossible to click.
 How to Use
 Download or Clone the Project:
 
-git clone <repository-url>
+git clone <https://github.com/Feyre-head/Irrefutable-dating-request-JS-CSS-HTML.git>
 
 
 Run the Project:
@@ -54,7 +54,7 @@ script.js: JavaScript file for button interactions and animations.
 style.css: Optional CSS file for styling the page (customize as you like).
 
 
-Change the Message: Edit the text in alert or <h3> to personalize your message.
+Change the Message: Edit the text in alert or personalize your message.
 
 Add Styles: Modify the estilo.css file to change the appearance of the page.
 
